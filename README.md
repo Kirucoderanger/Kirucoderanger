@@ -4,18 +4,20 @@
 **Kirucoderanger/Kirucoderanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-<!--
+- 🔭 I’m currently working on building and improving full-stack web applications with secure authentication, RESTful APIs, and modern deployment workflows.
+- 🌱 I’m currently learning advanced backend concepts, system design fundamentals, and expanding my knowledge as I pursue a Bachelor’s degree in Software Development.
+- 👯 I’m looking to collaborate on full-stack or backend-focused projects, especially web applications and API-driven systems.
+- 🤔 I’m looking for help with best practices for scalable architecture, performance optimization, and production-ready deployments.
+- 💬 Ask me about full-stack development, REST APIs, JWT authentication, PostgreSQL, MongoDB, or deploying apps with Vercel.
+- 📫 How to reach me: Connect with me on LinkedIn or reach out via GitHub. https://www.linkedin.com/in/kirubel-mekonen-251296b5/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy turning complex problems into clean, functional code and learning something new with every project.
+
+
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
@@ -41,6 +43,7 @@ Hi, I'm Kirubel. You might recognize me as GitHub's kirucoderanger.
 > If we pull together and commit ourselves, then we can push through anything.
 
 — Kiru the Coderanger
+<!--
 
 **This is bold text**
 
@@ -166,3 +169,45 @@ A footnote can also have multiple lines[^2].
 
 
 -->
+# Project Name
+
+## 🔍 Overview
+A full-stack web application demonstrating frontend and backend development, secure authentication, database integration, and deployment.
+
+## ✨ Features
+- Responsive UI using HTML, CSS, and JavaScript
+- RESTful API architecture
+- JWT authentication and authorization
+- PostgreSQL and MongoDB integration
+- API documentation with Swagger
+- Deployed using Vercel
+- File upload support via UploadThing
+
+## 🧠 Tech Stack
+**Frontend:** HTML, CSS, JavaScript  
+**Backend:** REST APIs, JWT Authentication  
+**Databases:** PostgreSQL, MongoDB  
+**Tools:** Swagger, Vercel, UploadThing  
+
+## 🏗 Architecture
+- Client-server architecture
+- RESTful design principles
+- Secure authentication flow
+- Separation of concerns
+
+## 📄 API Documentation
+APIs documented using Swagger for testing and integration.
+
+## 🚀 Deployment
+Application deployed on Vercel following best practices.
+
+## 🎯 Learning Outcomes
+- Full-stack development
+- Secure backend design
+- SQL & NoSQL database modeling
+- Deployment and production readiness
+
+## 👤 Author
+Kirubel Lemu  
+Full-Stack Developer | Software Development Bachelor’s Candidate
+
