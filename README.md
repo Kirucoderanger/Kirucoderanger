@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on building and improving full-stack web applications with secure authentication, RESTful APIs, and modern deployment workflows.
 - 🌱 I’m currently learning advanced backend concepts, system design fundamentals, and expanding my knowledge as I pursue a Bachelor’s degree in Software Development.
 - 👯 I’m looking to collaborate on full-stack or backend-focused projects, especially web applications and API-driven systems.
-- 🤔 I’m looking for help with best practices for scalable architecture, performance optimization, and production-ready deployments.
+- 🤔 I’m eager to deliver products with best practices for scalable architecture, performance optimization, and production-ready deployments.
 - 💬 Ask me about full-stack development, REST APIs, JWT authentication, PostgreSQL, MongoDB, or deploying apps with Vercel.
 - 📫 How to reach me: Connect with me on LinkedIn or reach out via GitHub. https://www.linkedin.com/in/kirubel-mekonen-251296b5/
 - 😄 Pronouns: He/Him
